@@ -1,4 +1,4 @@
-interface IPricingCard {
+export interface IPricingCard {
     price: number
     title: string
     benefits: string[]

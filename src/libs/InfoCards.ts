@@ -1,6 +1,6 @@
 import { AlarmClockOff, ArrowDownNarrowWide, ArrowUpNarrowWide, LucideIcon } from "lucide-react";
 
-interface IInfoCard {
+export interface IInfoCard {
     title: string;
     icon: LucideIcon;
     bodyText: string
